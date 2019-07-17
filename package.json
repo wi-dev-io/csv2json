@@ -1,0 +1,19 @@
+{
+  "name": "@wi-dev/csv2json",
+  "version": "1.0.0",
+  "description": "convert csv files for csv solution",
+  "main": "csvToJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wi-dev-io/csv2json.git"
+  },
+  "author": "Rachel and Ethan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi-dev-io/csv2json/issues"
+  },
+  "homepage": "https://github.com/wi-dev-io/csv2json#readme"
+}
